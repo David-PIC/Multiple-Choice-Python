@@ -1,0 +1,29 @@
+[
+  {
+    "question": "Wie heißt der höchste Berg in Deutschland?",
+    "options": [
+        "Zugspitze",
+        "Schneeberg",
+        "Großglockner"
+    ],
+    "answer": "A"
+ },
+ {
+    "question": "In welchem Jahr wurde die Mauer in Berlin errichtet?",
+    "options": [
+        "1991",
+        "1961"
+    ],
+    "answer": "B"
+ },
+  {
+    "question": "In welchem Bundesland liegt die Stadt München?",
+    "options": [
+        "Baden-Württemberg",
+        "Hessen",
+		"Bayern",
+        "Niedersachsen"
+    ],
+    "answer": "C"
+ }
+]
